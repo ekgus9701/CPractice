@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "행복회로_포인터ver", "행복회로_포인터ver\행복회로_포인터ver.vcxproj", "{4D7B26D7-E2F9-456E-A00A-7D2726B9FA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7B26D7-E2F9-456E-A00A-7D2726B9FA60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D7B26D7-E2F9-456E-A00A-7D2726B9FA60}.Debug|Win32.Build.0 = Debug|Win32
+		{4D7B26D7-E2F9-456E-A00A-7D2726B9FA60}.Release|Win32.ActiveCfg = Release|Win32
+		{4D7B26D7-E2F9-456E-A00A-7D2726B9FA60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

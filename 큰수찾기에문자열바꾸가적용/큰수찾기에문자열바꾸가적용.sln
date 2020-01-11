@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "큰수찾기에문자열바꾸가적용", "큰수찾기에문자열바꾸가적용\큰수찾기에문자열바꾸가적용.vcxproj", "{963F77C1-6808-4809-A2F4-206E641D3CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963F77C1-6808-4809-A2F4-206E641D3CEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{963F77C1-6808-4809-A2F4-206E641D3CEC}.Debug|Win32.Build.0 = Debug|Win32
+		{963F77C1-6808-4809-A2F4-206E641D3CEC}.Release|Win32.ActiveCfg = Release|Win32
+		{963F77C1-6808-4809-A2F4-206E641D3CEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

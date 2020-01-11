@@ -1,0 +1,28 @@
+﻿Build started 2019-10-01 오후 12:42:09.
+     1>Project "c:\Users\lg\documents\visual studio 2010\Projects\ewhacafe\ewhacafe\ewhacafe.vcxproj" on node 2 (build target(s)).
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(983,5): warning MSB3644: The reference assemblies for framework ".NETFramework,Version=v4.0" were not found. To resolve this, install the SDK or Targeting Pack for this framework version or retarget your application to a version of the framework for which you have the SDK or Targeting Pack installed. Note that assemblies will be resolved from the Global Assembly Cache (GAC) and will be used in place of reference assemblies. Therefore your assembly may not be correctly targeted for the framework you intend.
+     1>InitializeBuildStatus:
+         Touching "Debug\ewhacafe.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(51): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(62): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(81): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(123): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(127): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(131): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(135): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(138): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(141): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(144): error C2061: syntax error : identifier 'menu'
+     1>c:\users\lg\documents\visual studio 2010\projects\ewhacafe\ewhacafe\main.c(145): warning C4013: 'makeBlueberrySmoothie' undefined; assuming extern returning int
+     1>Done Building Project "c:\Users\lg\documents\visual studio 2010\Projects\ewhacafe\ewhacafe\ewhacafe.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.73

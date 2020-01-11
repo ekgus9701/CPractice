@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "행복회로_배열ver", "행복회로_배열ver\행복회로_배열ver.vcxproj", "{46F7C382-0613-407D-991F-D749B490AEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F7C382-0613-407D-991F-D749B490AEB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46F7C382-0613-407D-991F-D749B490AEB7}.Debug|Win32.Build.0 = Debug|Win32
+		{46F7C382-0613-407D-991F-D749B490AEB7}.Release|Win32.ActiveCfg = Release|Win32
+		{46F7C382-0613-407D-991F-D749B490AEB7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

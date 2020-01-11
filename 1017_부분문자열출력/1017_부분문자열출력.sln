@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1017_부분문자열출력", "1017_부분문자열출력\1017_부분문자열출력.vcxproj", "{79EFFEF5-CEC8-41B2-94FA-66F2E32FA17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EFFEF5-CEC8-41B2-94FA-66F2E32FA17C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79EFFEF5-CEC8-41B2-94FA-66F2E32FA17C}.Debug|Win32.Build.0 = Debug|Win32
+		{79EFFEF5-CEC8-41B2-94FA-66F2E32FA17C}.Release|Win32.ActiveCfg = Release|Win32
+		{79EFFEF5-CEC8-41B2-94FA-66F2E32FA17C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

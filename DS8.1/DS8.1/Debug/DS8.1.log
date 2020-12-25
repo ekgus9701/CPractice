@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\lg\Documents\c_practice\DS8.1\DS8.1\main.c(35,17): warning C4098: 'increase_key_min_heap': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\lg\Documents\c_practice\DS8.1\DS8.1\main.c(63,18): warning C4098: 'decrease_key_min_heap': 'void' 함수에서 값을 반환하고 있습니다.
+  DS8.1.vcxproj -> C:\Users\lg\Documents\c_practice\DS8.1\Debug\DS8.1.exe
